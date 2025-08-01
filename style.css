@@ -2,3 +2,29 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.fw-bold {
+  display: flex
+  justify-content: start;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif
+  justify-content:
+}
+
+.text-muted-1 {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.text-muted-2 {
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
